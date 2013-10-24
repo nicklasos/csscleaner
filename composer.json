@@ -1,0 +1,21 @@
+{
+    "name": "Nicklasos/csscleaner",
+    "description": "Find unused css styles",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Nicklasos",
+            "email": "nicklasos@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Nicklasos": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4",
+        "symfony/css-selector": "2.4.*@dev",
+        "nicklasos/router": "dev-master"
+    }
+}

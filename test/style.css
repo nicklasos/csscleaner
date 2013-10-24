@@ -1,0 +1,18 @@
+#header, #footer .widget-tabs>.nav-tabs>li+a {
+    font-weight: bold;
+}
+
+.row {
+    width: 100%;
+}
+.col-md-3 {
+    width: 30px;
+}
+
+.col-md-5 {
+    width: 50px;
+}
+
+.col-md-6 {
+    width: 60px;
+}
